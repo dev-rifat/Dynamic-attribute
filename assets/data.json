@@ -1,0 +1,30 @@
+{
+  "propertyTypes": [
+    "Apartment",
+    "Single Family",
+    "Townhouse",
+    "Condo"
+  ],
+  "bedrooms": [
+    "1 Bedroom",
+    "2 Bedrooms",
+    "3 Bedrooms",
+    "4 Bedrooms"
+  ],
+  "bathrooms": [
+    "0 Bathrooms",
+    "1 Bathroom",
+    "2 Bathrooms",
+    "3 Bathrooms"
+  ],
+  "cleaningFrequencies": [
+    "One time",
+    "Weekly",
+    "Bi-weekly",
+    "Monthly"
+  ],
+  "outdoorAreaOptions": [
+    "Including",
+    "Excluding"
+  ]
+}
